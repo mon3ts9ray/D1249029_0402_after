@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="54dd80e4-34f0-45bb-b163-23d6851e034e" name="Changes" comment="v1 first version&#10;v2 new tag&#10;v3 png、jpg change to webp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/modules/_about.sass" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/modules/_about.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/modules/_intro.sass" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/modules/_intro.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743093967242</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="v1 first version&#10;v2 new tag&#10;v3 png、jpg change to webp">
+      <option name="closed" value="true" />
+      <created>1743095127961</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743095127961</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +160,7 @@
     <MESSAGE value="v1 first version&#10;v2 load new project" />
     <MESSAGE value="v1 first version" />
     <MESSAGE value="v1 first version&#10;v2 new tag" />
+    <MESSAGE value="v1 first version&#10;v2 new tag&#10;v3 png、jpg change to webp&#10;v4 Global tag change" />
     <MESSAGE value="v1 first version&#10;v2 new tag&#10;v3 png、jpg change to webp" />
     <option name="LAST_COMMIT_MESSAGE" value="v1 first version&#10;v2 new tag&#10;v3 png、jpg change to webp" />
   </component>
